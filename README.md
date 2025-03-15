@@ -7,5 +7,7 @@ An open-source platform* with:
 
 
 *Even if you can self host it and all parts of it are open-source, if you want to use official servers you need a Nogeese One account.
+
 **Only on official servers, self hosted can have unlimited.
+
 ***Requires an active Nogeese One account.
