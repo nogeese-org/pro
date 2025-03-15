@@ -1,58 +1,37 @@
 # Nogeese Pro Terms of Service
+**Last Updated:** 2025-15-03
 
-### Last Updated: 2025-15-03
+By using Nogeese Pro, you agree to the following terms:
 
-By using Nogeese Pro, you agree to the following terms and conditions:
+## 1. General Terms
+By agreeing to these terms, you accept that:
+- You **cannot modify** any data stored on **official Nogeese Pro servers**.
+- You **cannot sell, distribute, or resell** Nogeese Pro or any of its services.
+- You **must comply** with all Nogeese Pro guidelines and policies.
 
-## 1. Data Integrity & Modification Restrictions
+## 2. Account and Usage Restrictions
+- You **must have a Nogeese One account** to use official Nogeese Pro services.
+- **Each Nogeese One account is limited to 25 devices**.  
+- **Bypassing this limit** in any way will result in **a permanent ban** from Nogeese One services.
+- If you **self-host** Nogeese Pro, you are responsible for **your own infrastructure and security**.
 
-    You cannot modify, alter, or delete any data stored on our servers.
-    Any unauthorized attempts to alter server data will result in immediate termination of your access.
+## 3. Security and Compliance
+- You **may not attempt to bypass security measures** or exploit vulnerabilities in Nogeese Pro services.
+- Any attempt to **disrupt or interfere** with Nogeese Pro systems **may** lead to **legal action**.
 
-## 2. Redistribution & Commercial Use
+## 4. Self-Hosting Policy
+- **You are free to self-host** Nogeese Pro under the provided open-source license.
+- **We do not provide official support** for self-hosted instances.
+- Self-hosted instances **are not bound by the 25-device limit**, but they **must not** use official Nogeese Pro servers.
 
-    You cannot sell, resell, or distribute this service, its components, or related software without explicit permission.
-    Open-source components of Nogeese Pro can be self-hosted, but usage of official servers requires a valid Nogeese One account.
+## 5. Termination
+- We reserve the right to **suspend or terminate** your access to Nogeese Pro if you violate these terms.
+- **Severe violations** (such as bypassing security or account limits) **may result in a permanent ban**.
 
-## 3. Device Limit & Account Enforcement
+## 6. Changes to These Terms
+- These terms may be updated periodically.
+- If major changes occur, we will notify you via **email or service announcements**.
 
-    Nogeese Pro allows up to 25 devices per Nogeese One account.
-    Attempting to bypass this limit through modification, circumvention, or multiple accounts will result in a ban from Nogeese One services.
-
-## 4. Account Security & Responsibility
-
-    You are responsible for keeping your Nogeese One account secure.
-    Any unauthorized activity originating from your account is your responsibility, and Nogeese Pro is not liable for any consequences.
-
-## 5. Data Privacy & Security
-
-    While we take strong security measures, you acknowledge that cloud-based services inherently carry risks.
-    Nogeese Pro is not responsible for data breaches, unauthorized access, or data loss caused by third-party interference.
-
-## 6. Fair Usage Policy
-
-    Excessive use of resources (including but not limited to bandwidth, storage, or processing power) that disrupts service for other users may result in temporary restrictions or account termination.
-
-## 7. Compliance with Laws
-
-    You must comply with all applicable local, national, and international laws when using Nogeese Pro.
-    Any use of the service for illegal activities, hacking, or unauthorized modifications will lead to immediate termination and possible legal action.
-
-## 8. Service Modifications & Termination
-
-    We reserve the right to modify, suspend, or discontinue Nogeese Pro at any time.
-    If services are discontinued, we will attempt to provide a reasonable notice period, but this is not guaranteed.
-
-## 9. No Warranty & Limitation of Liability
-
-    Nogeese Pro is provided "as is", without warranties of any kind, whether express or implied.
-    We are not liable for any data loss, downtime, software failures, or indirect damages resulting from the use of the service.
-
-## 10. Violation Consequences
-
-    Violating any of these terms may result in:
-        Temporary or permanent bans from Nogeese Pro and Nogeese One.
-        Loss of access to Pro OS, Pro Updates, and Pro Security repos.
-        Possible legal action in cases of severe violations.
-
-**If you do not agree with these terms, you should not use Nogeese Pro.**
+## 7. Contact Information
+For any questions or concerns, contact us at:
+📧 **support@leon8326.org**
