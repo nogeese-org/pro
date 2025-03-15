@@ -1,6 +1,6 @@
 # Nogeese Pro
 An open-source platform* with:
-- LTS (Long-Time Support) for Nogeese Linux Stable (10 years)!
+- LTS (Long-Term Support) for Nogeese Linux Stable (10 years)!
 - Pro OS, Updates and Security repos!
 - Up to 25 Devices on a single account for free!**
 - Nogeese One Enchanced***
