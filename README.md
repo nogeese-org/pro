@@ -11,3 +11,5 @@ An open-source platform* with:
 **Only on official servers, self hosted can have unlimited.
 
 ***Requires an active Nogeese One account.
+
+The source is available [here](https://github.com/nogeese-org/pro-source/)!
