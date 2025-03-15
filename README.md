@@ -13,3 +13,5 @@ An open-source platform* with:
 ***Requires an active Nogeese One account.
 
 The source is available [here](https://github.com/nogeese-org/pro-source/)!
+
+If you want to use this service you must have a Nogeese One account and agree to the [Terms of Service](terms-of-service.md) and [Privacy Policy](privacy-policy.md).
