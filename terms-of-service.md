@@ -1,5 +1,7 @@
 Nogeese Pro Terms of Service
 
+Last Updated: 2025-15-03
+
 By using Nogeese Pro, you agree to the following terms and conditions:
 
 1. Data Integrity & Modification Restrictions
